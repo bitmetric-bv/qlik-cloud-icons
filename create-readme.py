@@ -10,7 +10,7 @@ sorted_items = sorted(items)
 
 # Loop & write
 for item in sorted_items:
-    f.write("|" + item + "|<img src='./svg/" + item + "' width='64' height='64'/>|\n")
+    f.write("|" + item + "|<img src='./svg/" + item + "' width='32' height='32'/>|\n")
 
 # Done
 f.close()
