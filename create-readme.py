@@ -11,9 +11,9 @@ sorted_items = sorted(items)
 
 # Loop & write
 for item in sorted_items:
-    svg = open("./svg/" + item, "r")
-    f.write("|" + item + "|" + svg.read() + "|\n")
-    svg.close()
+    #svg = open("./svg/" + item, "r")
+    f.write("|" + item + "|<img src='./svg/" + item + "'/>|\n")
+    #svg.close()
 
 
 
