@@ -1,5 +1,5 @@
-# qlik-cloud-icons
-Collection of 167 Qlik Cloud icons in SVG format.
+# Qlik Cloud icons
+Collection of 170 Qlik Cloud icons in SVG format.
 
 |Filename|Preview|
 |---|---|
@@ -14,6 +14,7 @@ Collection of 167 Qlik Cloud icons in SVG format.
 |assets.svg|<img src='./svg/assets.svg' width='32' height='32'/>|
 |assistant.svg|<img src='./svg/assistant.svg' width='32' height='32'/>|
 |autocomplete.svg|<img src='./svg/autocomplete.svg' width='32' height='32'/>|
+|automation-2.svg|<img src='./svg/automation-2.svg' width='32' height='32'/>|
 |automation.svg|<img src='./svg/automation.svg' width='32' height='32'/>|
 |automl-deployment.svg|<img src='./svg/automl-deployment.svg' width='32' height='32'/>|
 |automl-experiment.svg|<img src='./svg/automl-experiment.svg' width='32' height='32'/>|
@@ -53,6 +54,7 @@ Collection of 167 Qlik Cloud icons in SVG format.
 |create.svg|<img src='./svg/create.svg' width='32' height='32'/>|
 |csv.svg|<img src='./svg/csv.svg' width='32' height='32'/>|
 |cut.svg|<img src='./svg/cut.svg' width='32' height='32'/>|
+|dashboard.svg|<img src='./svg/dashboard.svg' width='32' height='32'/>|
 |data-gateway.svg|<img src='./svg/data-gateway.svg' width='32' height='32'/>|
 |data-integration.svg|<img src='./svg/data-integration.svg' width='32' height='32'/>|
 |data-model.svg|<img src='./svg/data-model.svg' width='32' height='32'/>|
@@ -113,6 +115,7 @@ Collection of 167 Qlik Cloud icons in SVG format.
 |lock.svg|<img src='./svg/lock.svg' width='32' height='32'/>|
 |make-public.svg|<img src='./svg/make-public.svg' width='32' height='32'/>|
 |managed-space.svg|<img src='./svg/managed-space.svg' width='32' height='32'/>|
+|menu.svg|<img src='./svg/menu.svg' width='32' height='32'/>|
 |microphone.svg|<img src='./svg/microphone.svg' width='32' height='32'/>|
 |mobile.svg|<img src='./svg/mobile.svg' width='32' height='32'/>|
 |monitor-views.svg|<img src='./svg/monitor-views.svg' width='32' height='32'/>|
