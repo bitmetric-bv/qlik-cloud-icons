@@ -1,6 +1,6 @@
 ![Qlik Cloud icons](qlik-cloud-icons.png "Qlik Cloud icons")
 # Qlik Cloud icons
-Collection of 170 Qlik Cloud icons in SVG format.
+Collection of 172 Qlik Cloud icons in SVG format.
 
 |Filename|Preview|
 |---|---|
@@ -8,6 +8,7 @@ Collection of 170 Qlik Cloud icons in SVG format.
 |alert.svg|<img src='./svg/alert.svg' width='32' height='32'/>|
 |analytics.svg|<img src='./svg/analytics.svg' width='32' height='32'/>|
 |app.svg|<img src='./svg/app.svg' width='32' height='32'/>|
+|application-automation.svg|<img src='./svg/application-automation.svg' width='32' height='32'/>|
 |arrow-down.svg|<img src='./svg/arrow-down.svg' width='32' height='32'/>|
 |arrow-left.svg|<img src='./svg/arrow-left.svg' width='32' height='32'/>|
 |arrow-right.svg|<img src='./svg/arrow-right.svg' width='32' height='32'/>|
@@ -57,6 +58,7 @@ Collection of 170 Qlik Cloud icons in SVG format.
 |cut.svg|<img src='./svg/cut.svg' width='32' height='32'/>|
 |dashboard.svg|<img src='./svg/dashboard.svg' width='32' height='32'/>|
 |data-gateway.svg|<img src='./svg/data-gateway.svg' width='32' height='32'/>|
+|data-integration-2.svg|<img src='./svg/data-integration-2.svg' width='32' height='32'/>|
 |data-integration.svg|<img src='./svg/data-integration.svg' width='32' height='32'/>|
 |data-model.svg|<img src='./svg/data-model.svg' width='32' height='32'/>|
 |data-set.svg|<img src='./svg/data-set.svg' width='32' height='32'/>|
