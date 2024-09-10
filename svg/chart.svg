@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <g id="prefix__chart_16px-a" fill-rule="evenodd" clip-rule="evenodd">
+      <path fill="#404040" d="M1 4H0v1h1zm15 10H0v1h16zM0 9h1v1H0zm10-4a1 1 0 0 1 1-1h3a1 1 0 0 1 1 1v7h-5zm1 0h3v6h-3z"/>
+      <path fill="#009845" d="M7 2H4v9h3zM4 1a1 1 0 0 0-1 1v10h5V2a1 1 0 0 0-1-1z"/>
+    </g>
+  </defs>
+  <use xlink:href="#prefix__chart_16px-a"/>
+</svg>
