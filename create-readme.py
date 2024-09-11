@@ -13,7 +13,7 @@ f.write("|Filename|Preview|\n|---|---|\n")
 
 # Loop & write rows
 for item in sorted_items:
-    f.write("|" + item + "|<img src='./svg/" + item + "' width='32' height='32'/>|\n")
+    f.write(f"|{item}|<img src='./svg/{item}' width='32' height='32'/>|\n")
 
 # Done
 f.close()
