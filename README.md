@@ -1,6 +1,6 @@
 ![Qlik Cloud icons](qlik-cloud-icons.png "Qlik Cloud icons")
 # Qlik Cloud icons
-Collection of 172 Qlik Cloud icons in SVG format.
+Collection of 173 Qlik Cloud icons in SVG format.
 
 |Filename|Preview|
 |---|---|
@@ -54,7 +54,6 @@ Collection of 172 Qlik Cloud icons in SVG format.
 |content-security.svg|<img src='./svg/content-security.svg' width='32' height='32'/>|
 |content.svg|<img src='./svg/content.svg' width='32' height='32'/>|
 |create.svg|<img src='./svg/create.svg' width='32' height='32'/>|
-|csv.svg|<img src='./svg/csv.svg' width='32' height='32'/>|
 |cut.svg|<img src='./svg/cut.svg' width='32' height='32'/>|
 |dashboard.svg|<img src='./svg/dashboard.svg' width='32' height='32'/>|
 |data-gateway.svg|<img src='./svg/data-gateway.svg' width='32' height='32'/>|
@@ -85,6 +84,9 @@ Collection of 172 Qlik Cloud icons in SVG format.
 |eye.svg|<img src='./svg/eye.svg' width='32' height='32'/>|
 |favorite-fill.svg|<img src='./svg/favorite-fill.svg' width='32' height='32'/>|
 |favorite-outline.svg|<img src='./svg/favorite-outline.svg' width='32' height='32'/>|
+|file-csv.svg|<img src='./svg/file-csv.svg' width='32' height='32'/>|
+|file-parquet.svg|<img src='./svg/file-parquet.svg' width='32' height='32'/>|
+|file-qvd.svg|<img src='./svg/file-qvd.svg' width='32' height='32'/>|
 |file.svg|<img src='./svg/file.svg' width='32' height='32'/>|
 |filter-fill.svg|<img src='./svg/filter-fill.svg' width='32' height='32'/>|
 |filter-outline.svg|<img src='./svg/filter-outline.svg' width='32' height='32'/>|
@@ -134,7 +136,6 @@ Collection of 172 Qlik Cloud icons in SVG format.
 |project.svg|<img src='./svg/project.svg' width='32' height='32'/>|
 |qlik-logo.svg|<img src='./svg/qlik-logo.svg' width='32' height='32'/>|
 |question.svg|<img src='./svg/question.svg' width='32' height='32'/>|
-|qvd.svg|<img src='./svg/qvd.svg' width='32' height='32'/>|
 |reduce.svg|<img src='./svg/reduce.svg' width='32' height='32'/>|
 |report.svg|<img src='./svg/report.svg' width='32' height='32'/>|
 |rest-api.svg|<img src='./svg/rest-api.svg' width='32' height='32'/>|
