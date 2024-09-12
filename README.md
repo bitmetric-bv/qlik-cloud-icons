@@ -1,6 +1,6 @@
 ![Qlik Cloud icons](qlik-cloud-icons.png "Qlik Cloud icons")
 # Qlik Cloud icons
-Collection of 173 Qlik Cloud icons in SVG format.
+Collection of 177 Qlik Cloud icons in SVG format.
 
 |Filename|Preview|
 |---|---|
@@ -167,6 +167,10 @@ Collection of 173 Qlik Cloud icons in SVG format.
 |tenant.svg|<img src='./svg/tenant.svg' width='32' height='32'/>|
 |text-object.svg|<img src='./svg/text-object.svg' width='32' height='32'/>|
 |theme-outline.svg|<img src='./svg/theme-outline.svg' width='32' height='32'/>|
+|tile-space-data.svg|<img src='./svg/tile-space-data.svg' width='32' height='32'/>|
+|tile-space-managed.svg|<img src='./svg/tile-space-managed.svg' width='32' height='32'/>|
+|tile-space-personal.svg|<img src='./svg/tile-space-personal.svg' width='32' height='32'/>|
+|tile-space-shared.svg|<img src='./svg/tile-space-shared.svg' width='32' height='32'/>|
 |tiles.svg|<img src='./svg/tiles.svg' width='32' height='32'/>|
 |touch.svg|<img src='./svg/touch.svg' width='32' height='32'/>|
 |upload.svg|<img src='./svg/upload.svg' width='32' height='32'/>|
