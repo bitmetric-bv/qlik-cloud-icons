@@ -1,6 +1,6 @@
 ![Qlik Cloud icons](qlik-cloud-icons.png "Qlik Cloud icons")
 # Qlik Cloud icons
-Collection of 177 Qlik Cloud icons in SVG format.
+Collection of 211 Qlik Cloud icons in SVG format.
 
 |Filename|Preview|
 |---|---|
@@ -82,6 +82,40 @@ Collection of 177 Qlik Cloud icons in SVG format.
 |expand.svg|<img src='./svg/expand.svg' width='32' height='32'/>|
 |extension.svg|<img src='./svg/extension.svg' width='32' height='32'/>|
 |eye.svg|<img src='./svg/eye.svg' width='32' height='32'/>|
+|far-fa-arrow-alt-circle-down.svg|<img src='./svg/far-fa-arrow-alt-circle-down.svg' width='32' height='32'/>|
+|far-fa-arrow-alt-circle-up.svg|<img src='./svg/far-fa-arrow-alt-circle-up.svg' width='32' height='32'/>|
+|far-fa-clock.svg|<img src='./svg/far-fa-clock.svg' width='32' height='32'/>|
+|far-fa-code.svg|<img src='./svg/far-fa-code.svg' width='32' height='32'/>|
+|far-fa-compress-alt.svg|<img src='./svg/far-fa-compress-alt.svg' width='32' height='32'/>|
+|far-fa-compress.svg|<img src='./svg/far-fa-compress.svg' width='32' height='32'/>|
+|far-fa-copy.svg|<img src='./svg/far-fa-copy.svg' width='32' height='32'/>|
+|far-fa-cut.svg|<img src='./svg/far-fa-cut.svg' width='32' height='32'/>|
+|far-fa-directions.svg|<img src='./svg/far-fa-directions.svg' width='32' height='32'/>|
+|far-fa-dolly.svg|<img src='./svg/far-fa-dolly.svg' width='32' height='32'/>|
+|far-fa-exchange-alt.svg|<img src='./svg/far-fa-exchange-alt.svg' width='32' height='32'/>|
+|far-fa-exclamation-circle.svg|<img src='./svg/far-fa-exclamation-circle.svg' width='32' height='32'/>|
+|far-fa-external-link-alt.svg|<img src='./svg/far-fa-external-link-alt.svg' width='32' height='32'/>|
+|far-fa-eye.svg|<img src='./svg/far-fa-eye.svg' width='32' height='32'/>|
+|far-fa-file-check.svg|<img src='./svg/far-fa-file-check.svg' width='32' height='32'/>|
+|far-fa-file-edit.svg|<img src='./svg/far-fa-file-edit.svg' width='32' height='32'/>|
+|far-fa-file-export.svg|<img src='./svg/far-fa-file-export.svg' width='32' height='32'/>|
+|far-fa-file-plus.svg|<img src='./svg/far-fa-file-plus.svg' width='32' height='32'/>|
+|far-fa-file-search.svg|<img src='./svg/far-fa-file-search.svg' width='32' height='32'/>|
+|far-fa-file-times.svg|<img src='./svg/far-fa-file-times.svg' width='32' height='32'/>|
+|far-fa-filter.svg|<img src='./svg/far-fa-filter.svg' width='32' height='32'/>|
+|far-fa-flag.svg|<img src='./svg/far-fa-flag.svg' width='32' height='32'/>|
+|far-fa-folder-open.svg|<img src='./svg/far-fa-folder-open.svg' width='32' height='32'/>|
+|far-fa-folder-tree.svg|<img src='./svg/far-fa-folder-tree.svg' width='32' height='32'/>|
+|far-fa-layer-minus.svg|<img src='./svg/far-fa-layer-minus.svg' width='32' height='32'/>|
+|far-fa-list-alt.svg|<img src='./svg/far-fa-list-alt.svg' width='32' height='32'/>|
+|far-fa-repeat-alt.svg|<img src='./svg/far-fa-repeat-alt.svg' width='32' height='32'/>|
+|far-fa-search.svg|<img src='./svg/far-fa-search.svg' width='32' height='32'/>|
+|far-fa-share-fa-flip-vertical.svg|<img src='./svg/far-fa-share-fa-flip-vertical.svg' width='32' height='32'/>|
+|far-fa-sort-amount-down-alt.svg|<img src='./svg/far-fa-sort-amount-down-alt.svg' width='32' height='32'/>|
+|far-fa-stop-circle.svg|<img src='./svg/far-fa-stop-circle.svg' width='32' height='32'/>|
+|far-fa-tag.svg|<img src='./svg/far-fa-tag.svg' width='32' height='32'/>|
+|far-fa-times-circle.svg|<img src='./svg/far-fa-times-circle.svg' width='32' height='32'/>|
+|fas-fa-question.svg|<img src='./svg/fas-fa-question.svg' width='32' height='32'/>|
 |favorite-fill.svg|<img src='./svg/favorite-fill.svg' width='32' height='32'/>|
 |favorite-outline.svg|<img src='./svg/favorite-outline.svg' width='32' height='32'/>|
 |file-csv.svg|<img src='./svg/file-csv.svg' width='32' height='32'/>|
