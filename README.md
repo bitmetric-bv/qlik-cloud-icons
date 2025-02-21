@@ -1,6 +1,6 @@
 ![Qlik Cloud icons](qlik-cloud-icons.png "Qlik Cloud icons")
 # Qlik Cloud icons
-Collection of 213 Qlik Cloud icons in SVG format.
+Collection of 213 Qlik Cloud icons in SVG and PNG format.
 
 |Filename|Preview|
 |---|---|
