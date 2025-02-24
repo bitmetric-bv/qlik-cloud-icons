@@ -1,10 +1,12 @@
 ![Qlik Cloud icons](qlik-cloud-icons.png "Qlik Cloud icons")
 # Qlik Cloud icons
-Collection of 213 Qlik Cloud icons in SVG and PNG format.
+Collection of 239 Qlik Cloud icons in SVG and PNG format.
 
 |Filename|Preview|
 |---|---|
+|add-canvas.svg|<img src='./svg/add-canvas.svg' width='32' height='32'/>|
 |administration.svg|<img src='./svg/administration.svg' width='32' height='32'/>|
+|aggregate.svg|<img src='./svg/aggregate.svg' width='32' height='32'/>|
 |alert.svg|<img src='./svg/alert.svg' width='32' height='32'/>|
 |analytics.svg|<img src='./svg/analytics.svg' width='32' height='32'/>|
 |app-2.svg|<img src='./svg/app-2.svg' width='32' height='32'/>|
@@ -48,9 +50,11 @@ Collection of 213 Qlik Cloud icons in SVG and PNG format.
 |chart-waterfall.svg|<img src='./svg/chart-waterfall.svg' width='32' height='32'/>|
 |chart.svg|<img src='./svg/chart.svg' width='32' height='32'/>|
 |check.svg|<img src='./svg/check.svg' width='32' height='32'/>|
+|cleanse.svg|<img src='./svg/cleanse.svg' width='32' height='32'/>|
 |clock.svg|<img src='./svg/clock.svg' width='32' height='32'/>|
 |collections.svg|<img src='./svg/collections.svg' width='32' height='32'/>|
 |comment.svg|<img src='./svg/comment.svg' width='32' height='32'/>|
+|concatenate-fields.svg|<img src='./svg/concatenate-fields.svg' width='32' height='32'/>|
 |connection.svg|<img src='./svg/connection.svg' width='32' height='32'/>|
 |content-security.svg|<img src='./svg/content-security.svg' width='32' height='32'/>|
 |content.svg|<img src='./svg/content.svg' width='32' height='32'/>|
@@ -65,6 +69,7 @@ Collection of 213 Qlik Cloud icons in SVG and PNG format.
 |data-set.svg|<img src='./svg/data-set.svg' width='32' height='32'/>|
 |data-space.svg|<img src='./svg/data-space.svg' width='32' height='32'/>|
 |data_connection.svg|<img src='./svg/data_connection.svg' width='32' height='32'/>|
+|date.svg|<img src='./svg/date.svg' width='32' height='32'/>|
 |debug.svg|<img src='./svg/debug.svg' width='32' height='32'/>|
 |delete.svg|<img src='./svg/delete.svg' width='32' height='32'/>|
 |download.svg|<img src='./svg/download.svg' width='32' height='32'/>|
@@ -77,6 +82,7 @@ Collection of 213 Qlik Cloud icons in SVG and PNG format.
 |email-digest.svg|<img src='./svg/email-digest.svg' width='32' height='32'/>|
 |email.svg|<img src='./svg/email.svg' width='32' height='32'/>|
 |embed.svg|<img src='./svg/embed.svg' width='32' height='32'/>|
+|empty-preview.svg|<img src='./svg/empty-preview.svg' width='32' height='32'/>|
 |error-fill.svg|<img src='./svg/error-fill.svg' width='32' height='32'/>|
 |error-outline.svg|<img src='./svg/error-outline.svg' width='32' height='32'/>|
 |evaluate.svg|<img src='./svg/evaluate.svg' width='32' height='32'/>|
@@ -120,6 +126,8 @@ Collection of 213 Qlik Cloud icons in SVG and PNG format.
 |fas-fa-question.svg|<img src='./svg/fas-fa-question.svg' width='32' height='32'/>|
 |favorite-fill.svg|<img src='./svg/favorite-fill.svg' width='32' height='32'/>|
 |favorite-outline.svg|<img src='./svg/favorite-outline.svg' width='32' height='32'/>|
+|fields.svg|<img src='./svg/fields.svg' width='32' height='32'/>|
+|file-2.svg|<img src='./svg/file-2.svg' width='32' height='32'/>|
 |file-csv.svg|<img src='./svg/file-csv.svg' width='32' height='32'/>|
 |file-parquet.svg|<img src='./svg/file-parquet.svg' width='32' height='32'/>|
 |file-qvd.svg|<img src='./svg/file-qvd.svg' width='32' height='32'/>|
@@ -127,9 +135,12 @@ Collection of 213 Qlik Cloud icons in SVG and PNG format.
 |filter-fill.svg|<img src='./svg/filter-fill.svg' width='32' height='32'/>|
 |filter-outline.svg|<img src='./svg/filter-outline.svg' width='32' height='32'/>|
 |folder.svg|<img src='./svg/folder.svg' width='32' height='32'/>|
+|fork.svg|<img src='./svg/fork.svg' width='32' height='32'/>|
 |forward.svg|<img src='./svg/forward.svg' width='32' height='32'/>|
+|function.svg|<img src='./svg/function.svg' width='32' height='32'/>|
 |getting-started.svg|<img src='./svg/getting-started.svg' width='32' height='32'/>|
 |glossary.svg|<img src='./svg/glossary.svg' width='32' height='32'/>|
+|hash.svg|<img src='./svg/hash.svg' width='32' height='32'/>|
 |history.svg|<img src='./svg/history.svg' width='32' height='32'/>|
 |home-fill.svg|<img src='./svg/home-fill.svg' width='32' height='32'/>|
 |home-outline.svg|<img src='./svg/home-outline.svg' width='32' height='32'/>|
@@ -142,6 +153,7 @@ Collection of 213 Qlik Cloud icons in SVG and PNG format.
 |insight-advisor-2.svg|<img src='./svg/insight-advisor-2.svg' width='32' height='32'/>|
 |insight-advisor.svg|<img src='./svg/insight-advisor.svg' width='32' height='32'/>|
 |insights.svg|<img src='./svg/insights.svg' width='32' height='32'/>|
+|join.svg|<img src='./svg/join.svg' width='32' height='32'/>|
 |key-driver.svg|<img src='./svg/key-driver.svg' width='32' height='32'/>|
 |key.svg|<img src='./svg/key.svg' width='32' height='32'/>|
 |knowledge-base.svg|<img src='./svg/knowledge-base.svg' width='32' height='32'/>|
@@ -156,6 +168,7 @@ Collection of 213 Qlik Cloud icons in SVG and PNG format.
 |lock.svg|<img src='./svg/lock.svg' width='32' height='32'/>|
 |make-public.svg|<img src='./svg/make-public.svg' width='32' height='32'/>|
 |managed-space.svg|<img src='./svg/managed-space.svg' width='32' height='32'/>|
+|math.svg|<img src='./svg/math.svg' width='32' height='32'/>|
 |menu.svg|<img src='./svg/menu.svg' width='32' height='32'/>|
 |microphone.svg|<img src='./svg/microphone.svg' width='32' height='32'/>|
 |mobile.svg|<img src='./svg/mobile.svg' width='32' height='32'/>|
@@ -163,21 +176,27 @@ Collection of 213 Qlik Cloud icons in SVG and PNG format.
 |none.svg|<img src='./svg/none.svg' width='32' height='32'/>|
 |note.svg|<img src='./svg/note.svg' width='32' height='32'/>|
 |notification.svg|<img src='./svg/notification.svg' width='32' height='32'/>|
+|number.svg|<img src='./svg/number.svg' width='32' height='32'/>|
 |open-new-window-2.svg|<img src='./svg/open-new-window-2.svg' width='32' height='32'/>|
 |open-new-window.svg|<img src='./svg/open-new-window.svg' width='32' height='32'/>|
 |outdent.svg|<img src='./svg/outdent.svg' width='32' height='32'/>|
 |pin-fill.svg|<img src='./svg/pin-fill.svg' width='32' height='32'/>|
 |pin-outline.svg|<img src='./svg/pin-outline.svg' width='32' height='32'/>|
+|preview-2.svg|<img src='./svg/preview-2.svg' width='32' height='32'/>|
 |preview.svg|<img src='./svg/preview.svg' width='32' height='32'/>|
+|processor.svg|<img src='./svg/processor.svg' width='32' height='32'/>|
 |project.svg|<img src='./svg/project.svg' width='32' height='32'/>|
 |qlik-logo.svg|<img src='./svg/qlik-logo.svg' width='32' height='32'/>|
 |question.svg|<img src='./svg/question.svg' width='32' height='32'/>|
 |reduce.svg|<img src='./svg/reduce.svg' width='32' height='32'/>|
+|remove-fields.svg|<img src='./svg/remove-fields.svg' width='32' height='32'/>|
 |report.svg|<img src='./svg/report.svg' width='32' height='32'/>|
 |rest-api.svg|<img src='./svg/rest-api.svg' width='32' height='32'/>|
 |schedule.svg|<img src='./svg/schedule.svg' width='32' height='32'/>|
-|scissor.svg|<img src='./svg/scissor.svg' width='32' height='32'/>|
+|scissor-fill.svg|<img src='./svg/scissor-fill.svg' width='32' height='32'/>|
+|scissor-outline.svg|<img src='./svg/scissor-outline.svg' width='32' height='32'/>|
 |script-editor.svg|<img src='./svg/script-editor.svg' width='32' height='32'/>|
+|script.svg|<img src='./svg/script.svg' width='32' height='32'/>|
 |search.svg|<img src='./svg/search.svg' width='32' height='32'/>|
 |selection-clear.svg|<img src='./svg/selection-clear.svg' width='32' height='32'/>|
 |selection-next.svg|<img src='./svg/selection-next.svg' width='32' height='32'/>|
@@ -193,13 +212,16 @@ Collection of 213 Qlik Cloud icons in SVG and PNG format.
 |snapshot-library.svg|<img src='./svg/snapshot-library.svg' width='32' height='32'/>|
 |sort.svg|<img src='./svg/sort.svg' width='32' height='32'/>|
 |sorting.svg|<img src='./svg/sorting.svg' width='32' height='32'/>|
+|sources.svg|<img src='./svg/sources.svg' width='32' height='32'/>|
 |spaces.svg|<img src='./svg/spaces.svg' width='32' height='32'/>|
 |start.svg|<img src='./svg/start.svg' width='32' height='32'/>|
 |step.svg|<img src='./svg/step.svg' width='32' height='32'/>|
 |stop.svg|<img src='./svg/stop.svg' width='32' height='32'/>|
 |story.svg|<img src='./svg/story.svg' width='32' height='32'/>|
+|string.svg|<img src='./svg/string.svg' width='32' height='32'/>|
 |success-fill.svg|<img src='./svg/success-fill.svg' width='32' height='32'/>|
 |success-outline.svg|<img src='./svg/success-outline.svg' width='32' height='32'/>|
+|target.svg|<img src='./svg/target.svg' width='32' height='32'/>|
 |tenant.svg|<img src='./svg/tenant.svg' width='32' height='32'/>|
 |text-object.svg|<img src='./svg/text-object.svg' width='32' height='32'/>|
 |theme-outline.svg|<img src='./svg/theme-outline.svg' width='32' height='32'/>|
@@ -209,11 +231,15 @@ Collection of 213 Qlik Cloud icons in SVG and PNG format.
 |tile-space-shared.svg|<img src='./svg/tile-space-shared.svg' width='32' height='32'/>|
 |tiles.svg|<img src='./svg/tiles.svg' width='32' height='32'/>|
 |touch.svg|<img src='./svg/touch.svg' width='32' height='32'/>|
+|union.svg|<img src='./svg/union.svg' width='32' height='32'/>|
+|unpivot.svg|<img src='./svg/unpivot.svg' width='32' height='32'/>|
 |upload.svg|<img src='./svg/upload.svg' width='32' height='32'/>|
 |user.svg|<img src='./svg/user.svg' width='32' height='32'/>|
 |users.svg|<img src='./svg/users.svg' width='32' height='32'/>|
 |warning.svg|<img src='./svg/warning.svg' width='32' height='32'/>|
 |web.svg|<img src='./svg/web.svg' width='32' height='32'/>|
 |webhook.svg|<img src='./svg/webhook.svg' width='32' height='32'/>|
+|window.svg|<img src='./svg/window.svg' width='32' height='32'/>|
+|zoom-fit.svg|<img src='./svg/zoom-fit.svg' width='32' height='32'/>|
 |zoom-in.svg|<img src='./svg/zoom-in.svg' width='32' height='32'/>|
 |zoom-out.svg|<img src='./svg/zoom-out.svg' width='32' height='32'/>|
