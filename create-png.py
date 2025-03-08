@@ -25,6 +25,7 @@ os.makedirs('./png')
 for size in sizes:
     output_path = './png/%sx%s/' % (size, size)
     os.makedirs(output_path)
+    print("Generating PNG %sx%s" % (size, size))
 
     # Convert the image
     for item in items:
