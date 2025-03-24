@@ -1,6 +1,6 @@
 ![Qlik Cloud icons](qlik-cloud-icons.png "Qlik Cloud icons")
 # Qlik Cloud icons
-Collection of 245 Qlik Cloud icons in SVG and PNG format.
+Collection of 251 Qlik Cloud icons in SVG and PNG format.
 
 |Filename|Preview|
 |---|---|
@@ -25,6 +25,7 @@ Collection of 245 Qlik Cloud icons in SVG and PNG format.
 |automl-experiment.svg|<img src='./svg/automl-experiment.svg' width='32' height='32'/>|
 |back-2.svg|<img src='./svg/back-2.svg' width='32' height='32'/>|
 |back.svg|<img src='./svg/back.svg' width='32' height='32'/>|
+|book.svg|<img src='./svg/book.svg' width='32' height='32'/>|
 |bookmark.svg|<img src='./svg/bookmark.svg' width='32' height='32'/>|
 |browse.svg|<img src='./svg/browse.svg' width='32' height='32'/>|
 |catalog.svg|<img src='./svg/catalog.svg' width='32' height='32'/>|
@@ -61,12 +62,15 @@ Collection of 245 Qlik Cloud icons in SVG and PNG format.
 |content-security.svg|<img src='./svg/content-security.svg' width='32' height='32'/>|
 |content.svg|<img src='./svg/content.svg' width='32' height='32'/>|
 |create.svg|<img src='./svg/create.svg' width='32' height='32'/>|
+|cube.svg|<img src='./svg/cube.svg' width='32' height='32'/>|
 |cut.svg|<img src='./svg/cut.svg' width='32' height='32'/>|
 |dashboard.svg|<img src='./svg/dashboard.svg' width='32' height='32'/>|
 |data-flow.svg|<img src='./svg/data-flow.svg' width='32' height='32'/>|
 |data-gateway.svg|<img src='./svg/data-gateway.svg' width='32' height='32'/>|
 |data-integration-2.svg|<img src='./svg/data-integration-2.svg' width='32' height='32'/>|
 |data-integration.svg|<img src='./svg/data-integration.svg' width='32' height='32'/>|
+|data-load-editor.svg|<img src='./svg/data-load-editor.svg' width='32' height='32'/>|
+|data-manager.svg|<img src='./svg/data-manager.svg' width='32' height='32'/>|
 |data-model.svg|<img src='./svg/data-model.svg' width='32' height='32'/>|
 |data-set.svg|<img src='./svg/data-set.svg' width='32' height='32'/>|
 |data-space.svg|<img src='./svg/data-space.svg' width='32' height='32'/>|
@@ -172,6 +176,7 @@ Collection of 245 Qlik Cloud icons in SVG and PNG format.
 |make-public.svg|<img src='./svg/make-public.svg' width='32' height='32'/>|
 |managed-space.svg|<img src='./svg/managed-space.svg' width='32' height='32'/>|
 |math.svg|<img src='./svg/math.svg' width='32' height='32'/>|
+|measure.svg|<img src='./svg/measure.svg' width='32' height='32'/>|
 |menu.svg|<img src='./svg/menu.svg' width='32' height='32'/>|
 |microphone.svg|<img src='./svg/microphone.svg' width='32' height='32'/>|
 |mobile.svg|<img src='./svg/mobile.svg' width='32' height='32'/>|
@@ -189,6 +194,7 @@ Collection of 245 Qlik Cloud icons in SVG and PNG format.
 |preview.svg|<img src='./svg/preview.svg' width='32' height='32'/>|
 |processor.svg|<img src='./svg/processor.svg' width='32' height='32'/>|
 |project.svg|<img src='./svg/project.svg' width='32' height='32'/>|
+|puzzle.svg|<img src='./svg/puzzle.svg' width='32' height='32'/>|
 |qlik-logo.svg|<img src='./svg/qlik-logo.svg' width='32' height='32'/>|
 |question.svg|<img src='./svg/question.svg' width='32' height='32'/>|
 |reduce.svg|<img src='./svg/reduce.svg' width='32' height='32'/>|
