@@ -1,6 +1,6 @@
 ![Qlik Cloud icons](qlik-cloud-icons.png "Qlik Cloud icons")
 # Qlik Cloud icons
-Collection of 278 Qlik Cloud icons in SVG and PNG format.
+Collection of 279 Qlik Cloud icons in SVG and PNG format.
 
 |Filename|Preview|
 |---|---|
@@ -189,6 +189,7 @@ Collection of 278 Qlik Cloud icons in SVG and PNG format.
 |math.svg|<img src='./svg/math.svg' width='32' height='32'/>|
 |measure.svg|<img src='./svg/measure.svg' width='32' height='32'/>|
 |menu.svg|<img src='./svg/menu.svg' width='32' height='32'/>|
+|mfa.svg|<img src='./svg/mfa.svg' width='32' height='32'/>|
 |microphone.svg|<img src='./svg/microphone.svg' width='32' height='32'/>|
 |mobile.svg|<img src='./svg/mobile.svg' width='32' height='32'/>|
 |monitor-views.svg|<img src='./svg/monitor-views.svg' width='32' height='32'/>|
